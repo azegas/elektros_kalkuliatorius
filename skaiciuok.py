@@ -11,7 +11,7 @@ def calculate_cost():
     kwh_per_day = kilowatts * 24
 
     # Step 4: Assume the cost of electricity is 0.13 euro cents per kWh
-    cost_per_kwh = 0.21
+    cost_per_kwh = 0.22
 
     # Step 5: Calculate the cost for running the device for 24 hours daily, weekly, and monthly
     daily_cost = kwh_per_day * cost_per_kwh

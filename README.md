@@ -28,5 +28,7 @@
 - Kameros monikas huj - 
 - Docking station - nepajungus nieko prie jo - 0.1W, kraunant laptopa - 50W, + monikas - 65W (iki 150W raso maitblokis)
 - Julytes monikas - 14.9W
+- Kiuciu gyvatukas - 580W (kai sildo)
+- Kiuciu vejelis - 1200W (isijungus tiesiog)
 
 
