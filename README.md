@@ -30,5 +30,6 @@
 - Julytes monikas - 14.9W
 - Kiuciu gyvatukas - 580W (kai sildo)
 - Kiuciu vejelis - 1200W (isijungus tiesiog)
+- Karsto oro gruzdintuve - 1900W
 
 
